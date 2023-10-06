@@ -140,7 +140,8 @@ Full-stack dev | Front-end enthusiast
   </a>
 </p>
 
-### A little teaching
+### A little teaching  <picture>  <img src="https://github.com/GustavoFaustinoDeAzevedo/GustavoFaustinoDeAzevedo/assets/32557780/675f2801-2848-4179-a7c0-1db53b7c452d" width="32" height="32" />  </picture>
+ 
 
   <p align="left" >
     <picture> 
