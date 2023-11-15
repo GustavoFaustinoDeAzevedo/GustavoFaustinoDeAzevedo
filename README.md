@@ -102,14 +102,13 @@ Full-stack dev | Front-end enthusiast
 
 ### Socials
 <p align="left"> 
-  <a href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer"> 
+  <a href="[https://discord.com/users/gustavofaustino](https://twitter.com/Gustavo87799635)" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
       <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img src="https://twitter.com/Gustavo87799635" width="32" height="32" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
     </picture> 
   </a>
-<p align="left"> 
   <a href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
