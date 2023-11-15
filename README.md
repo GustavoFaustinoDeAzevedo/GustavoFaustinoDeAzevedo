@@ -109,7 +109,7 @@ Full-stack dev | Front-end enthusiast
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
     </picture> 
   </a>
-  <a href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer"> 
+  <a styel = "background-color: white" href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
       <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
