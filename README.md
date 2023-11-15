@@ -102,7 +102,7 @@ Full-stack dev | Front-end enthusiast
 
 ### Socials
 <p align="left"> 
-  <a style = "background-color: white" href="https://twitter.com/Gustavo87799635" target="_blank" rel="noreferrer"> 
+  <a href="https://twitter.com/Gustavo87799635" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
       <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
