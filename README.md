@@ -32,14 +32,6 @@ Front-End Developer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" /> 
     </picture> 
   </a>
-
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" /> 
-      <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
   
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <picture> 
