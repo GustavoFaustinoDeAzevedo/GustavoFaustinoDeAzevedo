@@ -131,19 +131,5 @@ Front-End Developer
   </a>
 </p>
 
-### A little basic teaching  <picture>  <img src="https://github.com/GustavoFaustinoDeAzevedo/GustavoFaustinoDeAzevedo/assets/32557780/675f2801-2848-4179-a7c0-1db53b7c452d" width="32" height="32" />  </picture>
- 
-
-  <p align="left" >
-    <picture> 
-      <img src="https://github.com/GustavoFaustinoDeAzevedo/GustavoFaustinoDeAzevedo/assets/32557780/51490146-35ce-4509-ab2d-a02d0b4f4ce0" width="288" height="208" /> 
-    </picture> 
-    <picture> 
-      <img src="https://github.com/GustavoFaustinoDeAzevedo/GustavoFaustinoDeAzevedo/assets/32557780/0ba77182-29ad-4ea2-a226-6c94a274f444" width="288" height="208" /> 
-    </picture> 
-    <br>
-     gifs by <a href="https://tenor.com/users/atomiz">Atomiz</a>
-  </p>
-
 
 
