@@ -15,7 +15,7 @@ Front-End Developer
 👨‍💻 I'm excited about the potential of technology to shape our world, and I'm ready to collaborate on innovative projects that make a meaningful impact. If you're looking for a dedicated developer who brings both a creative touch and a solid technical foundation to the table, let's connect and bring some awesome ideas to life!
 
 * 🌍  I'm based in Rio Grande do Norte, Brazil
-* 🖥️  See my portfolio at [here](https://gustavofaustinodeazevedo.github.io/portfolio/) (still in early development)
+* 🖥️  See my portfolio at [here](https://gustavofaustinodeazevedo.github.io) (still in early development)
 * ✉️  You can contact me at [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
 * 🧠  I'm studying JS/React, python and some java. 
 * 🤝  I'm open to collaborating on Projects
