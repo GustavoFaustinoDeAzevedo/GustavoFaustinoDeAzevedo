@@ -1,22 +1,13 @@
-Hi 👋 My name is Gustavo Faustino
+Gustavo Faustino de Azevêdo
 =================================
 
 Front-End Developer
 -------------------------------------
 
-💻My coding journey traces back to the realms of RPG Maker, where I first kindled my love for logic and structure. Today, I'm more focused in JavaScript and React, constructing intuitive and interactive interfaces. 
-
-🔍With a educational foundation in computer engineering, I begun programming in C/C++ then Python and a little bit of Java, besides I already knew some programming logic because my previous RPG Maker experience. 
-
-🎮When the code takes a pause, I'm an avid gamer, drawing inspiration from mechanics and storytelling. 
-
-👨‍💻 I'm excited about the potential of technology to shape our world, and I'm ready to collaborate on innovative projects that make a meaningful impact. If you're looking for a dedicated developer who brings both a creative touch and a solid technical foundation to the table, let's connect and bring some awesome ideas to life!
-
 * 🌍  I'm based in Rio Grande do Norte, Brazil
 * 🖥️  See my portfolio at [here](https://gustavofaustinodeazevedo.github.io) (still in early development)
 * ✉️  You can contact me at [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
 * 🤝  I'm open to collaborating on Projects
-
 
 ### Skills
 
@@ -58,10 +49,10 @@ Front-End Developer
 
 ### Socials
 <p align="left"> 
-  <a href="https://twitter.com/Gustavo87799635" target="_blank" rel="noreferrer"> 
+  <a href="https://x.com/Gustavo87799635" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
+      <source  srcset="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=FFFFFF" /> 
+<!--       <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />  -->
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
     </picture> 
   </a>
