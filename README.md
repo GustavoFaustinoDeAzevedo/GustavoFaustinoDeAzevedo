@@ -4,10 +4,10 @@ Gustavo Faustino de Azevêdo
 Front-End Developer
 -------------------------------------
 
-* 🌍  I'm based in Rio Grande do Norte, Brazil
-* 🖥️  See my portfolio at [here](https://gustavofaustinodeazevedo.github.io) (still in early development)
-* ✉️  You can contact me at [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
-* 🤝  I'm open to collaborating on Projects
+*   I'm based in Rio Grande do Norte, Brazil
+*   See my portfolio at [here](https://gustavofaustinodeazevedo.github.io) (still in early development)
+*   You can contact me at [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
+*   I'm open to collaborating on Projects
 
 ### Skills
 
@@ -49,13 +49,6 @@ Front-End Developer
 
 ### Socials
 <p align="left"> 
-  <a href="https://x.com/Gustavo87799635" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source  srcset="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=FFFFFF" /> 
-<!--       <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />  -->
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
   <a  href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
