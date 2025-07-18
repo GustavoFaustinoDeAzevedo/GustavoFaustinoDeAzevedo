@@ -4,7 +4,7 @@ Gustavo Faustino de Azevêdo
 Desenvolvedor Front-End
 -------------------------------------
 
-*   Sou de Rio Grande do Norte, Brasi
+*   Sou de Rio Grande do Norte, Brasil
 *   Confira meu portfólio clicando [aqui](https://gustavofaustinodeazevedo.github.io) (ainda em desenvolvimento)
 *   Você pode me contatar pelo meu email [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com), ou através do meu [Whatsapp](https://wa.me/+5584992057810)
 *   Estou aberto a novas oportunidades 😊.
