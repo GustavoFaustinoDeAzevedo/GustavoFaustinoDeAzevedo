@@ -1,15 +1,15 @@
 Gustavo Faustino de Azevêdo
 =================================
 
-Front-End Developer
+Desenvolvedor Front-End
 -------------------------------------
 
-*   I'm based in Rio Grande do Norte, Brazil
-*   See my portfolio at [here](https://gustavofaustinodeazevedo.github.io) (still in early development)
-*   You can contact me at [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
-*   I'm open to collaborating on Projects
+*   Sou de Rio Grande do Norte, Brasil
+*   Veja meu portfólio [aqui](https://gustavofaustinodeazevedo.github.io) (ainda em desenvolvimento)
+*   Você pode me contatar em [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
+*   Estou aberto a novas oportunidades.
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -48,7 +48,7 @@ Front-End Developer
 </p>
 
 
-### Socials
+### Perfis
 <p align="left"> 
   <a  href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer"> 
     <picture> 
