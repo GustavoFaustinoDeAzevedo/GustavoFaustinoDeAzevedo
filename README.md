@@ -6,8 +6,8 @@ Desenvolvedor Front-End
 
 *   Sou de Rio Grande do Norte, Brasi
 *   Veja meu portfólio [aqui](https://gustavofaustinodeazevedo.github.io) (ainda em desenvolvimento)
-*   Você pode me contatar em [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
-*   Estou aberto a novas oportunidades.
+*   Você pode me contatar em [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com)
+*   Estou aberto a novas oportunidades.
 
 ### Habilidades
 
