@@ -21,7 +21,7 @@ Desenvolvedor Front-End
  *   <a  href="https://discord.com/users/gustavofaustino" target="_blank" rel="noreferrer">Discord</a>
  *   <a href="https://www.facebook.com/gustavo.faustino.52" target="_blank" rel="noreferrer">Facebook</a>
  *   <a href="http://www.instagram.com/gustavofaustino18" target="_blank" rel="noreferrer">Instagram</a> 
- *   <a href="https://www.linkedin.com/in/gustavo-faustino-de-azevedo-92a04b147" target="_blank" rel="noreferrer">Linkedin</a>
+ *   <a href="https://www.linkedin.com/in/gustavo-faustino-de-azevedo" target="_blank" rel="noreferrer">Linkedin</a>
 
 
 
