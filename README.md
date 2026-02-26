@@ -13,7 +13,7 @@ Desenvolvedor Front-End
  
    *   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">HTML</a>
    *   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">CSS</a>
-   *   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>
+   *   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>/<a href="https://www.typescriptlang.org/" rel="noreferrer">TypeScript</a>
    *   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a>
 
 ### Perfis
