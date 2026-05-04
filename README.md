@@ -15,6 +15,8 @@ Desenvolvedor Front-End
    *   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">CSS</a>
    *   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>/<a href="https://www.typescriptlang.org/" rel="noreferrer">TypeScript</a>
    *   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a>
+   *   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">Node.js</a>
+   *   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">Next.js</a>
 
 ### Perfis
 
