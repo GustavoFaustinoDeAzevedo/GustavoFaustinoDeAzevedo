@@ -5,7 +5,7 @@ Desenvolvedor Front-End
 -------------------------------------
 
 *   Residindo no Rio Grande do Norte, Brasil
-*   Confira meu portfólio clicando [aqui](https://gustavofaustinodeazevedo.github.io) 
+*   Confira meu projeto de interface de sistema operacional clicando [aqui](https://gustavofaustinodeazevedo.github.io) ou [https://gustavofaustinodeazevedo.github.io](https://gustavofaustinodeazevedo.github.io)
 *   Você pode me contatar pelo meu email [gustavofaustino18@hotmail.com](mailto:gustavofaustino18@hotmail.com), ou através do meu [Whatsapp](https://wa.me/+5584992057810)
 *   Estou aberto a novas oportunidades 😊
 
