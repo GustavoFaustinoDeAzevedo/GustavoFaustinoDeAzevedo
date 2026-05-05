@@ -1,7 +1,7 @@
 Gustavo Faustino de Azevêdo
 =================================
 
-Desenvolvedor Front-End
+Desenvolvedor Front-End em processo de migração para Full-Stack
 -------------------------------------
 
 *   Residindo no Rio Grande do Norte, Brasil
